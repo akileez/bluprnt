@@ -1,0 +1,34 @@
+{
+  "name": "bluprnt",
+  "version": "0.1.0",
+  "description": "An awesome module being created",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/bluprnt.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/bluprnt"
+  },
+  "homepage": "https://github.com/akileez/bluprnt",
+  "bugs": {
+    "url": "https://github.com/akileez/bluprnt/issues"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "toolz": "github:akileez/toolz"
+  },
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
