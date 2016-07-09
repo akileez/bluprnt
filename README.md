@@ -4,14 +4,18 @@
 [![experimental][stability-image]][stability-url]
 [![Downloads][downloads-image]][downloads-url]
 
+ bluprnt fetches a ZIP file and extracts it into the current folder, which is really handy since you can download a ZIP from a git repository.
+
 ## Installation
 ```bash
-$ npm install akileez\bluprnt
+$ npm install -g akileez\bluprnt
 ```
 
 ## Usage
-```js
+Just run `bluprnt` in the folder you want to put the boilerplate in.
 
+```js
+> bluprnt --user 'akileez' --repo 'playground'
 ```
 
 ## API
