@@ -2,10 +2,13 @@
   "name": "bluprnt",
   "version": "0.1.0",
   "description": "An awesome module being created",
+  "bin": {
+    "bluprnt": "index.js"
+  },
   "main": "index.js",
   "scripts": {},
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=6.2.1"
   },
   "repository": {
     "type": "git",
